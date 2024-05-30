@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Fred
 - 👀 I’m interested in develop new projects and I'm searching for a job.
 - 🌱 I’m currently learning C.
-- 📫 How to reach me fred.aos@outlook.com
